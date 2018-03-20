@@ -1,8 +1,20 @@
+body {
+	background-color: #C6B8E7;
+}
+
 #board {
   margin-top: 10px;
+  background-color: #FFF;
+  border: 2px solid black; 
+  margin: 0 auto;
 }
 
 .box {
   border: 1px solid black;
   height: 150px;
+}
+
+.btn btn-outline-primary {
+	text-align: center;
+	margin: 0 auto;
 }
